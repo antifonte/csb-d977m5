@@ -1,0 +1,53 @@
+<svg height="400px" width="600px" viewBox="0 0 150 56" fill="none" xmlns="http://www.w3.org/2000/svg" class="header-logo-size" style="transform: translateY(0%);">
+									<g fill="currentColor">
+										<defs>
+											<style>
+												.cls-1 {
+													fill: #b34700;
+												}
+
+												.cls-2 {
+													font-size: 4.12px;
+													font-family: Arial-Black, Arial Black;
+													font-weight: 800;
+												}
+
+												.cls-3 {
+													letter-spacing: -0.02em;
+												}
+
+												.cls-4 {
+													letter-spacing: 0.01em;
+												}
+											</style>
+										</defs>
+										<rect class="cls-1" x="3.16" y="0.99" width="1.11" height="8.59"></rect>
+										<rect class="cls-1" width="1.05" height="9.58"></rect>
+										<rect class="cls-1" x="1.05" width="11.72" height="1.1"></rect>
+										<rect class="cls-1" x="11.63" y="1.1" width="1.14" height="5.24"></rect>
+										<rect class="cls-1" x="6.91" y="3.28" width="1.13" height="6.29"></rect><text class="cls-2" transform="translate(14.17 4.4)">ies histórico<tspan x="0" y="4.95">ba</tspan>
+											<tspan class="cls-3" x="5.5" y="4.95">c</tspan>
+											<tspan x="8.18" y="4.95">hiller s</tspan>
+											<tspan class="cls-4" x="23.53" y="4.95">a</tspan>
+											<tspan x="26.32" y="4.95">buco</tspan>
+										</text>
+									</g>
+
+									<g class="logo-shape">
+										<g class="logo-shape__left">
+											<path d="M31.271 3.174l-22.9 5.982v11.967l22.9-5.982V3.174z"></path>
+											<path d="M31.271 19.773l-22.9 5.985v11.967l22.9-5.982v-11.97z"></path>
+											<path d="M31.271 36.375l-22.9 5.985v11.964l22.9-5.982V36.375z"></path>
+										</g>
+										<g class="logo-shape__right">
+											<path d="M31.271 3.174v11.967l22.9 5.982V9.156l-22.9-5.982z"></path>
+											<path d="M31.271 19.773v11.97l22.9 5.982V25.758l-22.9-5.985z"></path>
+											<path d="M31.271 36.375v11.967l22.9 5.982V42.36l-22.9-5.985z"></path>
+										</g>
+										<g class="logo-shape__bottom">
+											<path d="M53.48 54.16L31.27 48.357 9.063 54.159H53.48z"></path>
+											<path d="M54.171 37.725l-8.867 2.317-14.033-3.667-14.032 3.667-8.867-2.317 22.9-5.985 22.899 5.985z"></path>
+											<path d="M54.171 21.126l-8.867 2.317-14.033-3.667-14.032 3.667-8.867-2.317 22.9-5.985 22.899 5.985z"></path>
+										</g>
+									</g>
+								</svg>
